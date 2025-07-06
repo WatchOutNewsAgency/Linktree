@@ -26,6 +26,13 @@ tagline: >-
 # List of links
 links:
   - link:
+      icon: "fa-solid fa-map"
+      text: "The Ultimate Freshman's Guide to IIT Roorkee 2025"
+      url: "https://drive.google.com/file/d/1udzv0t2U55QNY67JzWK4rrvvMHgEFT23/view?pli=1"
+      alt: "Freshman's Guide to IITR"
+      title: "Freshman's Guide to IIT Roorkee"
+      target: "_blank""
+  - link:
       icon: "fa-solid fa-pen"
       text: "Internship  Diary : Vishal Bokhare"
       url: "https://drive.google.com/file/d/1H4FFhs0u6GHJN3YGZZUCxa2y6e4bziTT/view?usp=sharing"

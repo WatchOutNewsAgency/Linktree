@@ -27,6 +27,14 @@ tagline: >-
 links:
   - link:
       icon: "fa-solid fa-map"
+      text: "IITR’s Alumni Mentorship Program: A Bridge Beyond the Gates"
+      url: "https://watchout.iitr.ac.in/2025/08/amp"
+
+      alt: "alumni mentorship program"
+      title: "IITR’s Alumni Mentorship Program"
+      target: "_blank"
+  - link:
+      icon: "fa-solid fa-map"
       text: "The Ultimate Freshman's Guide to IIT Roorkee 2025"
       url: "https://drive.google.com/file/d/1oUc1ssTKRMQk5ytKLkwIlmdiQ_rDWAfI/view?usp=sharing"
       alt: "Freshman's Guide to IITR"
